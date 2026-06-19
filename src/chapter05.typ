@@ -1,3 +1,7 @@
+#import "lib.typ": *
+
+= The Grievances of the Reformists
+
 The Central Board of the Dawoodi Bohra community — which claims to
 represent the reformist, or progressive, section of the Bohra community —
 set out the grievances of the reformists in a memorandum dated 9 April

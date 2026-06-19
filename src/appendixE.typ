@@ -1,11 +1,6 @@
-// =====================================================================
-//  Appendix E — Conditions imposed for the grant of consent (Raza)
-//  Body translation. Include it after a heading in main.typ, exactly the
-//  way chapters 1 and 2 are included, e.g.:
-//
-//      #chapter[APPENDIX E][Conditions Imposed for the Grant of Consent (Raza)]
-//      #include "appendixE.typ"
-// =====================================================================
+#import "lib.typ": *
+
+#heading(level: 1, numbering: none)[Appendix E: Degrading Conditions Imposed for the Grant of Consent (Raza)]
 
 #set par(first-line-indent: 0pt, justify: true, leading: 0.72em)
 
@@ -19,16 +14,6 @@
 #v(0.4em)
 #align(center)[#line(length: 38%, stroke: 0.6pt)]
 #v(0.7em)
-
-// Numbered conditions, hanging-indent style.
-#let cond(n, body) = {
-  v(0.5em)
-  grid(
-    columns: (1.7em, 1fr),
-    column-gutter: 0.5em,
-    align(right)[#n.], [#body],
-  )
-}
 
 #cond[1][The name of the organization, its membership, its constitution,
 and so forth must conform to the directions of the clergy (the priestly

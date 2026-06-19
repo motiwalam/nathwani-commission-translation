@@ -1,30 +1,6 @@
-// =====================================================================
-//  Chapter Eight — Further Instances of Social Persecution
-//  Body-only include. The chapter kicker/title are supplied by main.typ
-//  via #chapter[CHAPTER EIGHT][Further Instances of Social Persecution].
-//  Source: original Urdu edition, pp. 88–109.
-// =====================================================================
+#import "lib.typ": *
 
-// ---- Local helpers (not inherited from main.typ) --------------------
-#let subhead(title) = {
-  set par(first-line-indent: 0pt, justify: false)
-  v(0.8em)
-  align(center)[
-    #text(size: 12.5pt, weight: "bold")[#title]
-    #v(0.25em)
-    #line(length: 38%, stroke: 0.6pt + luma(120))
-  ]
-  v(0.35em)
-}
-
-// A reproduced document / letter, set off from the running text.
-#let docblock(body) = {
-  set par(first-line-indent: 0pt, justify: true, leading: 0.7em)
-  pad(left: 1.1em, right: 1.1em)[#body]
-  v(0.3em)
-}
-
-// ---------------------------------------------------------------------
+= Further Instances of Social Persecution
 
 #align(center)[#text(size: 12pt, style: "italic", fill: luma(60))[Methods of harassment and infliction of harm]]
 #v(0.6em)
@@ -168,7 +144,7 @@ threatened that his social boycott would follow if his daughter-in-law were sent
 home again. His elder son's wife has died, but no one is willing to marry him,
 for everyone fears the boycott.
 
-#subhead[(1) Obstruction of Marriages]
+== (1) Obstruction of Marriages
 
 There are several cases in which engagements were broken off under pressure from
 the priestly class, because one of the two parties belonged to the reformist
@@ -192,7 +168,7 @@ impossible to list all the marriages that the priestly class refused to allow on
 the ground of the parties' reformist activity; the Memorandum of England gives a
 list of thirteen such persons.
 
-#subhead[(2) Forced Resignations]
+== (2) Forced Resignations
 
 The number of people who have been beaten and humiliated in public places and
 streets, and whose houses, shops, and business premises have been smashed, is
@@ -224,9 +200,9 @@ Provincial Labour Officer, Coast, Mombasa, addressed on 31 March 1978 to the
 Secretary of the Dawoodi Bohra community of Mombasa and to the local religious
 leader; a photocopy of it was supplied to us by one of the respondents.
 
-#subhead[(3) Loss of Livelihood through Threats]
+== (3) Loss of Livelihood through Threats
 
-#docblock[
+#docquote[
 My attention has been drawn to the fact that about eight employees of [Mirza
 Namji Brothers Limited — name uncertain] have been threatened and harassed and,
 under the threat of being thrown out in disgrace, compelled to resign. Some of
@@ -254,7 +230,7 @@ livelihood, and that none of the eight persons named will be threatened or
 harassed.
 ]
 
-#subhead[(4) Ban on Entry into Mosques]
+== (4) Ban on Entry into Mosques
 
 The greatest hardship for reformists is that they are forbidden to enter the
 mosques. Although the mosques exist for the religious purposes of the Dawoodi
@@ -289,7 +265,7 @@ and most of these people live in fear of being beaten. Knifings have lately been
 increasing: only recently (13 August 1978), at Bhavnagar, Rasul Bhai Qamruddin
 Engineer of Lathi was attacked with a knife.
 
-#subhead[(5) Harassment during Burial Rites]
+== (5) Harassment during Burial Rites
 
 A memorandum submitted to the Commission states that, after death, reformist
 members and the relatives who live with them are not permitted burial in the
@@ -336,7 +312,7 @@ grandmother at a desolate spot because they had no money. In Karachi it is the
 same: Hatim Ali's mother had to be buried in a non-Bohra cemetery. Countless such
 examples could be given.
 
-#subhead[(6) Financial Pressure]
+== (6) Financial Pressure
 
 Almost everyone stated that taxes, levies, offerings (#emph[nazrana]), and
 #emph[salaam] of various kinds are exacted from them; a few, presenting a long
@@ -421,7 +397,7 @@ is beaten and the dargah is ritually washed, as though his very presence had
 defiled it. The local administration welcomes non-Bohras and lets them perform
 the #emph[ziyarat]; conservative Bohras obtain the Amil's permission for it.
 
-#subhead[(7) Reservation in the Cemetery]
+== (7) Reservation in the Cemetery
 
 As to the reservation of a place in the cemetery for individuals or families,
 almost everyone said that the land is provided by the government or the local
@@ -439,7 +415,7 @@ number, the date, the plot number, the number of the line of graves, the grave
 number, the permission number, the time of burial, and the name of the person
 buried, together with the signatures of the deceased's heirs or guardian.
 
-#subhead[(8) Reservation in Mosques]
+== (8) Reservation in Mosques
 
 In his affidavit Noman Bhai Contractor stated that, in the Bohra mosques, the
 practice has also begun of reserving a place of worship for women, for a fixed
@@ -455,7 +431,7 @@ that the place may be used only by the woman named, or by one she permits; that
 it may not be sold for money; and that in every case the religious head will have
 the power to cancel the pass.
 
-#subhead[(9) Violation of Human Dignity]
+== (9) Violation of Human Dignity
 
 A person can remain in the Bohra community only by forgetting his own personality
 and human dignity. In a report from London, Yusuf N. Patwa describes how, at a
@@ -471,7 +447,7 @@ could even conceive, since the Qur'an forbids it: prostration may be made to God
 alone, never to a human being. Many such incidents have been brought to the
 Commission's notice.
 
-#subhead[(10) Forcing Women to Give Up Employment]
+== (10) Forcing Women to Give Up Employment
 
 Abid Tayyab Ali Rajab Ali writes from Mombasa that when the Syedna's brother,
 Yusuf Najmuddin, came to East Africa in 1977, he issued a firman that all the
@@ -483,7 +459,7 @@ Adam Ali A. Patwa sent, from Dar es Salaam, a photocopy of a letter from the
 Ministry of Home Affairs of the Government of Tanzania, the substance of which is
 reproduced here:
 
-#docblock[
+#docquote[
 #set align(right)
 Ministry of Home Affairs \
 United Republic of Tanzania \
@@ -505,9 +481,9 @@ Dar es Salaam
 Dear Mr. Raja,
 ]
 
-#subhead[(11) The Bohra Community]
+== (11) The Bohra Community
 
-#docblock[
+#docquote[
 1.~Thank you for your letter of 31 October 1978 on the above subject, in which
 you drew our attention to the meeting held on 25 October 1978 under the
 chairmanship of Mr. J. M. [Mathiko — name uncertain]. Mr. Mathiko is also the

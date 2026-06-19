@@ -1,30 +1,11 @@
-// ---------------------------------------------------------------------
-//  Appendix "H" — The Prevention of Social Disabilities Bill, 1977
-//  English translation, laid out to mirror the original Urdu edition.
-//  Designed to be #include-d from main.typ, like chapter01.typ.
-//  Uses only built-in Typst features so it also compiles standalone.
-// ---------------------------------------------------------------------
+#import "lib.typ": *
 
-// Local helper for the lettered / numbered legal clauses.
-#let clause(label, body) = {
-  set par(first-line-indent: 0pt)
-  pad(left: 0.6em)[
-    #grid(
-      columns: (1.9em, 1fr),
-      column-gutter: 0.3em,
-      row-gutter: 0.6em,
-      [#label], [#body],
-    )
-  ]
-}
+#heading(level: 1, numbering: none)[Appendix H: The Prevention of Social Disabilities Bill, 1977]
 
-// ---- Appendix header (mirrors the original title page) --------------
 #set par(first-line-indent: 0pt, justify: false)
 #align(center)[
-  #text(size: 10pt, tracking: 2pt, fill: luma(90))[APPENDIX "H"]
-  #v(0.2em)
   #text(size: 9.5pt, style: "italic", fill: luma(70))[(See Chapter XIV)]
-  #v(0.9em)
+  #v(0.6em)
   #text(size: 10pt)[As introduced in the Lok Sabha on 15 July 1977]
   #linebreak()
   #text(size: 10pt)[Bill No. 66 of 1977]

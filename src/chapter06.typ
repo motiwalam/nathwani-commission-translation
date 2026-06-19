@@ -1,27 +1,6 @@
-// Chapter Six — Interference with Civil Liberties and Human Rights
-// Body-only include file. Chapter heading is applied by main.typ.
-//
-// Local helpers (include files do not inherit `let` bindings from main.typ).
-#let section(title) = {
-  set par(first-line-indent: 0pt)
-  v(0.6em)
-  text(size: 11.5pt, weight: "bold")[#title]
-  v(0.2em)
-}
+#import "lib.typ": *
 
-#let docquote(body) = {
-  set par(first-line-indent: 0pt, justify: true, leading: 0.72em)
-  pad(left: 1.5em, right: 0.6em, top: 0.3em, bottom: 0.3em)[#body]
-}
-#let sigblock(body) = {
-  set par(first-line-indent: 0pt, justify: false, leading: 0.85em)
-  pad(left: 4em, top: 0.4em, bottom: 0.4em)[#body]
-}
-#let divider = {
-  v(0.6em)
-  align(center)[#line(length: 38%, stroke: 0.7pt)]
-  v(0.4em)
-}
+= Interference with Civil Liberties and Human Rights
 
 In Section "A" of the questionnaire issued by the Commission, questions
 were put to the members of the Dawoodi Bohra community concerning the
@@ -74,7 +53,7 @@ meanings of the two words are, respectively, "slave of Syedna" and
 invitation cards, the persons concerned are boycotted and permission for
 the marriage is refused.
 
-#section[(1) Attack on a teacher, and dismissal from service]
+== (1) Attack on a teacher, and dismissal from service
 
 Let us now examine in some detail a few matters touching the freedom of
 expression. The list is long, but we shall take up a few particular cases.
@@ -151,7 +130,7 @@ to seek, receive, and impart information and ideas through any medium.]
 The only offence of a poor teacher was that he had read an Urdu weekly
 newspaper.
 
-#section[(2) The ban on reading the Bohra Bulletin]
+== (2) The ban on reading the Bohra Bulletin
 
 Another witness, Tahir Ali Abdul Ali Kapasi \[name uncertain\], a resident
 of Dhoraji in Rajkot district, also testified. He stated that a notice of
@@ -188,7 +167,7 @@ imposed excommunication upon him.
 ]
 #v(0.4em)
 
-#section[(3) Marriage without permission declared invalid]
+== (3) Marriage without permission declared invalid
 
 A lady, Sister Zaitoon — sister of Ahmed Ali Yusuf Ali Kapasi of Talaja
 \[name uncertain\] — also testified. She stated that her parents were
@@ -310,7 +289,7 @@ begun for the education of adult women likewise had to be closed for the
 same reason, since those who would have attended them
 were threatened by the local Amil with excommunication.
 
-#section[(4) A venerable daily]
+== (4) A venerable daily
 
 An important and prominent matter concerns the long-established Gujarati
 daily, the Bombay #emph[Samachar] — a most venerable newspaper, founded
@@ -430,7 +409,7 @@ The same gentleman further told us that a book by Wajid Ali, entitled
 #emph[Fatimi Da'wat] ("The Fatimid Mission"), has likewise been declared
 forbidden.
 
-#section[(5) Excommunication against the orphanage]
+== (5) Excommunication against the orphanage
 
 Let us now examine in detail the harassment suffered by those who run
 social institutions without obtaining the great mullah's approval.
@@ -496,7 +475,7 @@ certificate was withheld from them; and that afterwards, when they
 intervened, they had to pay Rs.~500 to be permitted another feast,
 whereupon the Misaq (oath of allegiance) was administered to them afresh.
 
-#section[(6) Orders to close the cooperative bank]
+== (6) Orders to close the cooperative bank
 
 Another instructive example is that of Shri Ghulam Husain Ismail \[name
 uncertain\], a resident of Udaipur and secretary of the Bohra jamaat there.
@@ -519,7 +498,7 @@ it may be issued. We shall give further details of this testimony later. A
 translation of the firman relating to the closing of the Youth Association
 and the cooperative bank is set out in Appendix "F".
 
-#section[(7) The order to dissolve the Youth Association]
+== (7) The order to dissolve the Youth Association
 
 Abid Ali Hasan Ali \[name uncertain\], a resident of Udaipur and a member
 of the Udaipur Sahitya (literary) Academy, was secretary of the Udaipur
@@ -553,7 +532,7 @@ reached Udaipur he received a letter from the Syedna, in which the Youth
 Association
  had been ordered to be dissolved.
 
-#section[(8) Are elections contrary to religion?]
+== (8) Are elections contrary to religion?
 
 In February 1973 the Syedna sent his son, Qa'id Johar \[name uncertain\], to
 Udaipur. He met many members of the community and told them that, in order
@@ -609,7 +588,7 @@ that the elections were duly held in December, the witness also produced a
 cutting of the #emph[J. Rajasthan] dated 8 December 1975. \[The two December
 dates the source gives for this episode are not entirely consistent.\]
 
-#section[(9) The prohibition of charity]
+== (9) The prohibition of charity
 
 The witness further told us that the Syedna ordered the dissolution of the
 Anjuman-e-Luqmani, which on the occasion of funerals

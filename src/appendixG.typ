@@ -1,10 +1,6 @@
-// =====================================================================
-//  APPENDIX G
-//  A community "clearance" letter (translated, in the source, from
-//  Gujarati), referenced in Chapter Eleven. Source: a single handwritten
-//  Urdu page, p. 188 of the original edition. Square brackets and italic
-//  notes flag readings that are uncertain in the manuscript.
-// =====================================================================
+#import "lib.typ": *
+
+#heading(level: 1, numbering: none)[Appendix G: Community Clearance Letter]
 
 #set par(first-line-indent: 0pt, justify: false, leading: 0.75em)
 

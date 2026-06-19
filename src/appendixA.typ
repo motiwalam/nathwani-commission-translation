@@ -1,17 +1,6 @@
-// =====================================================================
-//  Appendix A-1 — The press note, and the newspapers in which it appeared.
-//  Body text only; included by main.typ under the APPENDICES chapter,
-//  just like the chapter files. Self-contained: it defines its own
-//  sub-heading helper (styled to match main.typ's `section`) so it does
-//  not rely on helpers from the including file's scope.
-// =====================================================================
+#import "lib.typ": *
 
-#let subhead(title) = {
-  set par(first-line-indent: 0pt)
-  v(0.6em)
-  text(size: 11.5pt, weight: "bold")[#title]
-  v(0.2em)
-}
+#heading(level: 1, numbering: none)[Appendix A-1: English Dailies; Gujarati Press; Press Note]
 
 The following press note was given to the press and to the news agencies
 for publication on 17 March 1978 at Ahmedabad, during a press conference
@@ -19,7 +8,7 @@ addressed by the Commission's Member-Secretary, Mr. C. T. Daru. A summary
 of this press note appeared in various Gujarati periodicals, and also in
 the English and Gujarati newspapers listed below.
 
-#subhead[English Dailies]
+== English Dailies
 
 #set par(first-line-indent: 0pt, leading: 0.7em)
 #pad(left: 0.6em)[
@@ -34,7 +23,7 @@ the English and Gujarati newspapers listed below.
 ]
 #set par(first-line-indent: 1.2em, leading: 0.72em)
 
-#subhead[Gujarati Daily Newspapers]
+== Gujarati Daily Newspapers
 
 #set par(first-line-indent: 0pt, leading: 0.7em)
 #pad(left: 0.6em)[
@@ -57,7 +46,7 @@ the English and Gujarati newspapers listed below.
 ]
 #set par(first-line-indent: 1.2em, leading: 0.72em)
 
-#subhead[Press Note]
+== Press Note
 
 The National Working Committee of Citizens for Democracy has appointed a
 Commission to inquire into, and to report upon, the violation of the human

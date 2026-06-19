@@ -1,3 +1,7 @@
+#import "lib.typ": *
+
+= Introduction
+
 This report is the outcome of an inquiry into a complaint concerning the
 oppressive treatment meted out to the reform-minded members of the
 Dawoodi Bohra community by devotees acting in the name of the supreme

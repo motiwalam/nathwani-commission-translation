@@ -1,3 +1,7 @@
+#import "lib.typ": *
+
+= Attempts at Legislation
+
 In this chapter we shall examine the steps taken under the law by the
 reformists, the legislative measures adopted by the Government of Bombay
 to prevent the expulsion of any person from any community, and the

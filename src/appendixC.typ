@@ -1,8 +1,6 @@
-// =====================================================================
-//  Appendix "C" — "The Illegal Transfer of 50,000 Shillings"
-//  (Referenced from Chapter Three.)
-//  Reproduces a newspaper report and the official government statement.
-// =====================================================================
+#import "lib.typ": *
+
+#heading(level: 1, numbering: none)[Appendix C: Illegal Transfer of Funds]
 
 #set par(first-line-indent: 0pt, justify: false)
 #align(center)[

@@ -1,3 +1,7 @@
+#import "lib.typ": *
+
+= The Syedna's Claim to Be Absolute Ruler
+
 The Syedna Sahib claims not only to be the religious head of the
 community, but also to be its head in secular affairs. The question is:
 what is the source of his authority? In every town where there is a

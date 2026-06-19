@@ -1,3 +1,7 @@
+#import "lib.typ": *
+
+= The Misaq (Oath of Allegiance)
+
 The most serious complaint of the reformist group concerns the misaq —
 the oath of allegiance, or the form of the pledge of obedience that the
 Syedna and his representatives, the #emph[aamil] (agent) and the deputy

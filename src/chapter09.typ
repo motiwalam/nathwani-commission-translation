@@ -1,20 +1,6 @@
-// Chapter Nine — Interference with the Right to Vote
-// Body-only file, included from main.typ via #chapter[...][...].
-// Local helpers (kept self-contained, since #include does not expose
-// the calling file's let-bindings).
+#import "lib.typ": *
 
-#let docquote(body) = {
-  pad(left: 1.2em, right: 1.2em)[
-    #set par(first-line-indent: 0pt, justify: true)
-    #body
-  ]
-}
-
-#let divider = {
-  v(0.4em)
-  align(center)[#text(tracking: 0.6em, fill: luma(110))[× × ×]]
-  v(0.4em)
-}
+= Interference with the Right to Vote
 
 In this chapter we shall examine the evidence relating to interference with
 the right to vote. Together with the memorandum of the Central Board of the

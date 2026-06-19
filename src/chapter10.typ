@@ -1,37 +1,6 @@
-// Chapter Ten — The Autocratic Dispensation
-// Body-only include file for main.typ. The chapter title is supplied by
-// main.typ via #chapter[][]. Helper macros are defined locally because
-// #include does not expose the calling file's `let` bindings.
+#import "lib.typ": *
 
-#let section(title) = {
-  set par(first-line-indent: 0pt)
-  v(0.6em)
-  text(size: 11.5pt, weight: "bold")[#title]
-  v(0.2em)
-}
-
-// A quoted document (firman, official letter, notice). Set off from the
-// Commission's own prose by indentation and a left rule.
-#let quoted(body) = {
-  set par(first-line-indent: 0pt, justify: true, leading: 0.7em)
-  pad(left: 0.9em)[
-    #block(
-      inset: (left: 0.7em, top: 0.2em, bottom: 0.2em),
-      stroke: (left: 1pt + luma(170)),
-    )[#body]
-  ]
-  set par(first-line-indent: 1.2em, justify: true, leading: 0.72em)
-}
-
-// A lettered or numbered clause inside a quoted document.
-#let clause(label, body) = {
-  grid(
-    columns: (1.7em, 1fr),
-    row-gutter: 0pt,
-    [#label], [#body],
-  )
-  v(0.35em)
-}
+= The Autocratic Dispensation
 
 Many Dawoodi Bohras live in countries other than India, and almost all of
 them have gone there from Gujarat. In these countries the local
@@ -62,7 +31,7 @@ and orphans, interest-free loans to enable people to start in trade,
 medical aid, guest-houses, religious instruction, and the like, provided
 as the need arose.
 
-#section[(1) The Firman]
+== (1) The Firman
 
 In 1965 the present Syedna, Mohammed Burhanuddin, attempted to introduce a
 new constitution. The object of this new constitution was that he should

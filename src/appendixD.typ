@@ -1,23 +1,6 @@
-// =====================================================================
-//  Appendix "D"  —  (See Chapter Four)
-//  English translation, mirroring the single-page source (p. 184).
-//  Included from main.typ, e.g.  #include "appendixD.typ"
-// =====================================================================
+#import "lib.typ": *
 
-#pagebreak(weak: true)
-#v(1.6cm)
-
-#set par(first-line-indent: 0pt, justify: false)
-#align(center)[
-  #text(size: 11pt, tracking: 3pt, fill: luma(90))[APPENDIX D]
-  #v(0.4em)
-  #text(size: 10.5pt, style: "italic", fill: luma(70))[(See Chapter Four)]
-  #v(0.7em)
-  #text(size: 19pt, weight: "bold", hyphenate: false)[
-    Places and Dates of the\ Commission's Sittings
-  ]
-]
-#v(1.0cm)
+#heading(level: 1, numbering: none)[Appendix D: The Old Misaq (from Suit No. 94 of 1915)]
 
 An Urdu rendering of the English translation of the Misaq (the oath of
 allegiance) that was placed on record by the Advocate General of Bombay

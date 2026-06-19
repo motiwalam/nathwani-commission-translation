@@ -1,9 +1,10 @@
+#import "lib.typ": *
+
 // =====================================================================
 //  APPENDIX (to Chapter One) — The Questionnaire
-//  English translation, laid out to mirror the original Urdu edition.
-//  Body file: include this after a #chapter[...] heading in main.typ,
-//  exactly as with chapter01.typ / chapter02.typ.
 // =====================================================================
+
+#heading(level: 1, numbering: none)[Appendix to Chapter I: The Questionnaire]
 
 // ---- Local helpers (scoped to this file) ----------------------------
 #let qsec(letter, title) = {
@@ -62,14 +63,6 @@
   ]
 }
 
-// =====================================================================
-//  HEADING
-// =====================================================================
-#set par(first-line-indent: 0pt, justify: false)
-#align(center)[
-  #text(size: 13pt, weight: "bold")[Appendix (See Chapter One)]
-]
-#v(0.8em)
 
 // =====================================================================
 //  COVERING LETTER

@@ -1,26 +1,6 @@
-// ---------------------------------------------------------------------
-//  Chapter Seven — Excommunication (Bara'at) and Social Oppression
-//  Body-only include. The chapter heading is supplied by main.typ.
-//  Section headings and local block-quote helper are defined here,
-//  since #include files do not inherit `let` bindings from main.typ.
-// ---------------------------------------------------------------------
+#import "lib.typ": *
 
-#let section(title) = {
-  set par(first-line-indent: 0pt)
-  v(0.6em)
-  text(size: 11.5pt, weight: "bold")[#title]
-  v(0.2em)
-}
-
-// An indented block for verbatim witness statements and quoted letters.
-#let docquote(body) = {
-  set par(first-line-indent: 0pt, justify: true, leading: 0.7em)
-  pad(left: 1.2em, right: 1.2em)[
-    #set text(size: 10pt)
-    #body
-  ]
-  v(0.3em)
-}
+= Excommunication (Bara'at) and Social Oppression
 
 In their answers to the questionnaire, the respondents made the general
 complaint that those who are reform-minded — or who merely call
@@ -69,7 +49,7 @@ individuals and families were reinstated. The number of those affected is
 very large; a few particular instances are given below, with the names of
 the persons concerned.
 
-#section[(1) A sister's distress; a brother's burial]
+== (1) A sister's distress; a brother's burial
 
 A lady, Maimuna Bai, daughter of Rajab Ali Baghpurwala, a resident of
 Udaipur, appeared before us. The substance of her statement is as
@@ -109,7 +89,7 @@ allowed back only after being compelled to submit an apology and to renew
 the Misaq. From that day I have not been able to see her face; she is not
 even permitted to pass near our house.
 
-#section[(2) Attack on women in the mosque]
+== (2) Attack on women in the mosque
 
 Maimuna Bai further told us that she had been an eyewitness to a
 notorious incident at the Moyyad-pura mosque on 18 January 1975 — a
@@ -125,7 +105,7 @@ She herself was pushed down. All this, she said, was done at the order of
 the chief Mulla's circle of devotees, for the attackers themselves said
 as much.
 
-#section[(3) Oppression at Galiakot]
+== (3) Oppression at Galiakot
 
 #emph[\[The contents page reads this heading uncertainly as "Ghatkopar";
 the manuscript here clearly reads Galiakot — the Bohra shrine town in
@@ -198,7 +178,7 @@ compelled to prostrate themselves (#emph[sajda]) before the Syedna and
 his brothers and to kiss their hands and feet — a practice utterly
 contrary to our religion.
 
-#section[(4) A son forced to declare disownment of his father]
+== (4) A son forced to declare disownment of his father
 
 Shaikh Ya'qub Ali, son of Qurban Husain Rajnagarwala, of Udaipur, seated
 before us, recounted the painful details of how he, his son, and his
@@ -277,7 +257,7 @@ honoured him warmly and offered congratulations. She sent us a photocopy
 of the letter, and added that bara'at has also been declared against
 her — by her own relatives and by her mother-in-law.
 
-#section[(5) Boycott of an advocate]
+== (5) Boycott of an advocate
 
 Shri Yahya Ali, an advocate practising in Udaipur, gave a statement and
 also appeared before the Commission. He said that for several years he
@@ -323,7 +303,7 @@ Ali's regular election was set aside, and the former secretary — who had
 not even any acquaintance with educational matters — was restored to
 office.
 
-#section[(6) Oppression and excess against a Sheikh]
+== (6) Oppression and excess against a Sheikh
 
 A man named Muhammad Shaikh Sarangpurwala, son of Sajjad Husain, a
 resident of Surat, appeared before us and recounted the tale of the
@@ -442,7 +422,7 @@ identity of the attackers, but only with the fact that those who had been
 boycotted were made the targets of mob violence — by whomever the attack
 may have been organized.
 
-#section[(7) Oppression of Bohras in foreign countries]
+== (7) Oppression of Bohras in foreign countries
 
 Many reformists were refused permission to marry in East Africa: despite
 the repeated requests of about a dozen people, neither the Mullaji nor

@@ -1,20 +1,6 @@
-// Chapter 14 — Recommendations (سفارشات), pages 158–163 of the source.
-// Body only; the chapter title is supplied by main.typ via #chapter[...].
+#import "lib.typ": *
 
-// Local helper for the numbered recommendations: a hanging-indent grid so
-// that multi-paragraph items align cleanly under the number.
-#let rec(num, body) = {
-  set par(first-line-indent: 0pt)
-  v(0.35em)
-  pad(left: 0.2em)[
-    #grid(
-      columns: (1.6em, 1fr),
-      column-gutter: 0pt,
-      [#text(weight: "bold")[#num.]],
-      [#body],
-    )
-  ]
-}
+= Recommendations
 
 Our inquiry has revealed that, at the hands of the priestly class, the
 civil rights and the human rights of reform-minded Bohras are being

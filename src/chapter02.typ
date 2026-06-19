@@ -1,3 +1,7 @@
+#import "lib.typ": *
+
+= Historical Background and the Dawoodi Tradition
+
 As is generally known, the Muslims are divided into two sects — Shia and
 Sunni — and the Dawoodi Bohras belong to the Shia sect. They are for the
 most part descendants of converts to Islam from Hinduism. Their

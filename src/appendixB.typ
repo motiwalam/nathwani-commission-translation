@@ -1,24 +1,8 @@
-// =====================================================================
-//  Appendix B — Places and dates of the Commission's sittings
-//  English translation, laid out to mirror the original Urdu page.
-//  Designed to be included from main.typ, e.g.:
-//      #include "appendixB.typ"
-// =====================================================================
+#import "lib.typ": *
 
-#pagebreak(weak: true)
-#v(1.6cm)
+#heading(level: 1, numbering: none)[Appendix B: Places and Dates of the Commission's Sittings]
 
 #set par(first-line-indent: 0pt, justify: false)
-#align(center)[
-  #text(size: 11pt, tracking: 3pt, fill: luma(90))[APPENDIX B]
-  #v(0.4em)
-  #text(size: 10.5pt, style: "italic", fill: luma(70))[(See Chapter One)]
-  #v(0.7em)
-  #text(size: 19pt, weight: "bold", hyphenate: false)[
-    Places and Dates of the\ Commission's Sittings
-  ]
-]
-#v(1.0cm)
 
 // The original lists, for each sitting, a serial number, the place, and
 // the date (written day–month–year in the manuscript).

@@ -1,3 +1,7 @@
+#import "lib.typ": *
+
+= Income, Property, and Their Management
+
 The reformists complain that, in his capacity as the religious head of the
 Dawoodi Bohra community, the Mullaji has installed himself as the sole
 trustee — without any partner — of countless and extremely valuable

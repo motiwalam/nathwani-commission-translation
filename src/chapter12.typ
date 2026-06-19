@@ -1,14 +1,6 @@
-// Chapter 12 — Taxes
-// Body-only include file for main.typ (heading injected by #chapter[]).
-// A local `section` helper is defined here because #include does not
-// expose the calling file's `let` bindings; its styling matches main.typ.
+#import "lib.typ": *
 
-#let section(title) = {
-  set par(first-line-indent: 0pt)
-  v(0.6em)
-  text(size: 11.5pt, weight: "bold")[#title]
-  v(0.2em)
-}
+= Taxes
 
 In this chapter we shall discuss those taxes — the levies, the offerings
 (_nazrana_), and the homage-payments (_salam_) — which, according to the
@@ -33,7 +25,7 @@ that taxes of the following kinds are collected:
 
 Let us first explain these terms.
 
-#section[(1) Zakat and Khums]
+== (1) Zakat and Khums
 
 _Zakat_ is obligatory upon all Muslims. It is levied on the wealth
 accumulated over the course of a year — that is, it is a tax on saved
@@ -46,7 +38,7 @@ zakat and the like; otherwise a Muslim is free to distribute his zakat
 among the poor, the needy, and so on as he sees fit. It is only among the
 Isma'ilis that its collection is compulsory.
 
-#section[(2) Sila and Fitra]
+== (2) Sila and Fitra
 
 _Fitra_ is an obligatory charity (it is not collected by compulsion). It
 is distributed among the poor and needy Muslims on the day of Eid al-Fitr,
@@ -56,7 +48,7 @@ _fitra_ is a kind of thanksgiving offering. _Sila_ means a gift to the
 Imam or _Da'i_ in return for his guidance in matters of faith.) This
 [_sila_] exists only among the Isma'ilis and not among other Muslims.
 
-#section[(3) Nazr-e-Maqam]
+== (3) Nazr-e-Maqam
 
 In reality, this is a sum that a person sets aside at the time of starting
 a new business, or of setting out on a journey, or on some similar
@@ -65,7 +57,7 @@ his time of need. The needy person intends to return the sum once his need
 has been met, for he believes that, if it is not repaid, some calamity or
 other will befall him.
 
-#section[(4) Haqq al-Nafs]
+== (4) Haqq al-Nafs
 
 There is no such tax in any other Muslim sect, nor is there any mention of
 it in Islamic law. According to many of the respondents to the
@@ -145,7 +137,7 @@ From the evidence the following is plain:
 Another copy of this clearance certificate — a copy of the No-Objection
 Certificate — is reproduced in Appendix "G".
 
-#section[(5) Are the Payments Compulsory or Voluntary?]
+== (5) Are the Payments Compulsory or Voluntary?
 
 Bills laid before us — bills used by the local #emph[Amil]s in various towns
 and sent to every household — were examined. In one such bill, submitted
@@ -278,7 +270,7 @@ the _dargah_ (shrine) at Burhanpur; and _qadam-bosi_ means the bowing of
 one's head at the feet of the Syedna. Generally, at the time of
 _qadam-bosi_, some cash offering is presented.
 
-#section[(6) A State within a State]
+== (6) A State within a State
 
 In their answers to the questions in Section "C" of the questionnaire, the
 respondents in practice confirmed the reformist leaders' charge that the
@@ -296,7 +288,7 @@ are compulsory taxes imposed by that religious ruler, who draws no
 distinction between religious and non-religious affairs, or between religion
 and the state.
 
-#section[(7) A Passport to Paradise]
+== (7) A Passport to Paradise
 
 Shri Musa Ji, who has been mentioned earlier, stated that after a person's
 death these people send a _ruq'a_ (a slip). It is a piece of paper on which

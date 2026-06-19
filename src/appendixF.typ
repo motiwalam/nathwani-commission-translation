@@ -1,3 +1,7 @@
+#import "lib.typ": *
+
+#heading(level: 1, numbering: none)[Appendix F: Firman for Dissolution of the Udaipur Youth Association]
+
 #set par(first-line-indent: 0pt, justify: false)
 #emph[
   Translation of a letter — written in the Gujarati language and sent, on
