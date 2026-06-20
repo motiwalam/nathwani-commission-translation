@@ -281,9 +281,9 @@ the prestige of our religion. #text(size: 8.5pt, style: "italic", fill: luma(90)
 
 #q[20][Are you free to:]
 #sub("a")[cast your vote for the party or candidate of your choice?
-#h(0.6em) #text(fill: luma(45))[(1) Yes #h(1.5em) (2) No]]
+#choices[(1) Yes  #h(2em) (2) No]]
 #sub("b")[stand as a candidate in general or municipal elections without
-obtaining the religious head's permission? #h(0.6em) #text(fill: luma(45))[(1) Yes #h(1.5em) (2) No]]
+obtaining the religious head's permission? ]
 
 #q[21][Is any direct or indirect pressure put on the members of your
 community to vote only for those candidates who — if they belong to the
@@ -389,7 +389,7 @@ mosques.]
 #sub("k")[For families who are socially boycotted, it is almost impossible
 to arrange marriages within the community.]
 #sub("l")[Of the intellectuals and social reformers who voiced even the
-slightest dissent between 1916 and 1948, \[the account continues\] — they
+slightest dissent between 1917 and 1948, \[the account continues\] — they
 were excommunicated without even being given a hearing.]
 #sub("m")[Such cases of excommunication, carried out in this manner, have
 been taken to the courts.]

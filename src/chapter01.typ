@@ -95,7 +95,7 @@ the religious freedom guaranteed by the Constitution of India, and that
 the Government of India ought not to permit such unconstitutional
 activity. The propaganda against the Commission was conducted with great
 skill; during the campaign the Syedna Sahib appointed a former Chief
-Censor of the Government of India \[name uncertain\] as his Publicity
+Censor of the Government of India Shri H. J. D'Penha as his Publicity
 Officer, who directed the publicity drive on behalf of the mullahs and
 their sympathizers.
 

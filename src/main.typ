@@ -129,18 +129,13 @@
 
 The source is a 193-page Urdu edition of the Nathwani Commission Report,
 written throughout in handwritten Nastaliq calligraphy. The original
-report was prepared in 1977–79 by a committee of Citizens for Democracy,
+report was prepared in 1977--79 by a committee of Citizens for Democracy,
 chaired by N. P. Nathwani, to inquire into alleged violations of the
 human rights of reformist members of the Dawoodi Bohra community.
 
 Because the source has no machine-readable text layer and is entirely
 handwritten, this English version has been produced by reading the
-manuscript directly rather than by automated OCR. The title page, the
-publication particulars, the complete table of contents, and Chapter One
-have been translated in full. The remaining chapters are laid out with
-their translated headings, preserving the structure of the original, and
-are marked as pending so they can be translated and checked one chapter
-at a time.
+manuscript directly rather than by automated OCR. 
 
 Words placed in square brackets, and notes in italics, flag points where
 the handwriting is uncertain. Page numbers in the table of contents
