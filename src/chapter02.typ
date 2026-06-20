@@ -88,8 +88,8 @@ father, Syedna Taher Saifuddin Sahib.
 
 There is some controversy as to whether the present Syedna Sahib's claim
 to the gaddi is valid. Some members of the community believe that the
-line of succession was broken after the death of the fifty-fourth Da'i,
-Badruddin. They say that the fifty-fourth Da'i died suddenly of poisoning
+line of succession was broken after the death of the 46th Da'i,
+Badruddin. They say that the 46th Da'i died suddenly of poisoning
 and was unable to appoint a successor; but at the time the scholars of
 the community, in order to prevent a schism and to keep the community's
 members from joining the Sulaymani sect, issued a #emph[fatwa] in favour
