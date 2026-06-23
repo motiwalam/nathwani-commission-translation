@@ -114,13 +114,11 @@ must possess powers like those of the Imam himself; and just as the Imam
 is infallible, so too the Da'i is wholly infallible.
 
 In the early stages of the hearing, the defendant's counsel advanced the
-argument that the Mullaji Sahib is God — or words to that effect \[the
-rest of the phrase is illegible in the original\] — and that the present
+argument that the Mullaji Sahib is God, or effectively God, and that the present
 suit therefore amounted to an act of irreverence. This argument was later
 withdrawn; but it was claimed that, although the Mullaji Sahib does not
 hold the rank of a Prophet, he possesses the powers of the Holy Prophet
-Muhammad Mustafa (peace be upon him), and that he is a #emph[wali] (saint)
-\[reading uncertain\].
+Muhammad Mustafa (peace be upon him), and that he is a #emph[wali] (saint).
 
 The Da'i of the time, in order to justify these vast and unprecedented
 powers, advanced these absurd claims of authority — claims the clergy
@@ -165,13 +163,7 @@ carefully, but I am not satisfied that they support the Mullaji's claim
 that he is the owner of the minds and the property of his followers. I
 mean that, even on the score of religious belief, this ought not to be
 so; and, moreover, the religious leaders themselves appear to distinguish
-between the worldly and the spiritual senses of ownership." Thus, when a
-former deputy Amil — a Sheikh of Bombay — was cross-examined \[in a
-related matter; the surrounding words are uncertain\] and was asked
-whether it was true or false that the Da'i says he has not the slightest
-interest in the properties, the witness replied that, from a worldly
-point of view, the Da'i had no such interest, and that this statement of
-his was therefore correct.
+between the worldly and the spiritual senses of ownership." In this way, when a former Deputy Amil of Bombay, Shaikh Kawkab, was cross-examined in the case of the head (peshwā) of Surat he was asked whether it is correct or wrong that the 49th Dāʿī states that they had not the slightest interest in the property. The witness replied: "From a worldly point of view they had no interest; therefore this statement of theirs is correct."
 
 On the question of ownership of property, we see that the Mullaji claims
 to be the absolute owner of the mosques and the like, and also says that
@@ -186,13 +178,13 @@ evident from the following extract from Justice Marten's judgment:
 
 #pad(left: 1.2em, right: 1.2em)[
   #set par(first-line-indent: 0pt)
-  "On 8 January 1921, Mr. Binning \[counsel\] stated that, according to
+  "On 8 January 1921, Mr. Binning stated that, according to
   his religion, his client has the power to confiscate the property of his
   followers; but it did not appear whether he could enforce this power
   through any court of law, and learned counsel gave no answer, yes or no,
   on the point. Almost the same situation arose at the time of the
-  defendant's counsel's closing address." \[Mr. Binning was one of those
-  appearing for the Mullaji Sahib in this suit.\]
+  defendant's counsel's closing address." (Mr. Binning was one of those
+  appearing for the Mullaji Sahib in this suit.)
 ]
 
 In support of these baseless claims, the Mullaji Sahib relied on the
@@ -228,7 +220,7 @@ of Tanzania, and that the Government of Tanzania expelled him from the
 country on that account. (See Appendix C.)
 
 A clear example of this is the attempt of a Dawoodi Bohra Amil to have the
-Da'i sent to jail for non-payment of a decretal sum, to which reference
+49th Da'i sent to jail for non-payment of a decretal sum, to which reference
 has already been made. (See Appendix \[B / E — uncertain\].)
 
 It is worth noting that no Da'i in the past had ever made the claims the
@@ -243,8 +235,8 @@ judgment:
   this case …"
 ]
 
-The hearing of this suit in 1921 appears to be the first occasion on which
-such claims were made, whereas the first Da'i was enthroned in 1132 CE. It
+The hearing of this suit in 1920 appears to be the first occasion on which
+such claims were made, whereas the first Da'i was enthroned in 1137 CE. It
 is possible that these claims have their origin in the days when, as
 Sultans of Yemen, the Da'is enjoyed independent sovereign rights. But, as
 has already been said, even if that era did not end when the Da'i left
@@ -260,7 +252,7 @@ wrote in his judgment:
 
 #pad(left: 1.2em, right: 1.2em)[
   #set par(first-line-indent: 0pt)
-  "It is now evident that, when the fifty-first Da'i \[Taher Saifuddin\]
+  "It is now evident that, when the 49th Da'i (that is, Burhanuddin)
   was enthroned, the seat (#emph[gaddi]) was at that time heavily in debt
   … It is plain that, because of these debts, the #emph[da'wat] must have
   faced considerable difficulty. It is a painful thing that steps
@@ -307,7 +299,7 @@ judgment and decree became final, and thereafter neither party filed any
 appeal in the matter.
 
 This case makes it clear that the fifty-first Da'i, in the suit filed
-against him in 1916, advanced claims of absolute autocracy for the first
+against him in 1917, advanced claims of absolute autocracy for the first
 time — claims that find no support in any religious book. We shall
 describe later how much more, or how much less, freedom has been allowed
 under the present Da'i. But what has been said above makes it quite plain
