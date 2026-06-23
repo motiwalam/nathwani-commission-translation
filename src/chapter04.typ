@@ -38,11 +38,9 @@ treated it as a document; and this fact too is evidence. Saifuddin
 claimed that it was a confidential document, and so its full text does
 not appear in the judgment of the Bombay High Court; but Justice Marten,
 referring to it, recorded that Saifuddin himself stated the document was
-nine years old. That evidence was given in 1921, so even on the elder
+90 years old. That evidence was given in 1921, so even on the elder
 Mullaji's own statement the document was not very old at that time —
-perhaps written around 1912. \[The dates given in the manuscript at this
-point are difficult to read and do not fully reconcile; see also the
-scribal note at the end of the oath, dated 1342 AH.\]
+perhaps written around 1833. At the end of the copy of the oath exhibited here, it is written 1248 Hijri which gives 1833 A.D.
 
 Another witness produced a copy of this English translation, which had
 been placed in the \[Galla\] case mentioned above. An appeal against
@@ -75,9 +73,8 @@ sect, would be endangered by its disclosure. The number of Dawoodi Bohras
 increases by the day, so the question of keeping the matter secret does
 not really arise. We therefore include it in our record and report, as is
 proper. Besides, it has already been published several times; most
-recently it was published from Poona by #emph[New Quest] \[issue and date
-uncertain; the manuscript appears to read January–February, around the
-late 1950s\].
+recently it was published from Poona by #emph[New Quest] in issue \#7, January-February
+of 1988.
 
 We give below the English translation of this misaq, which the Syedna has
 been using at least since the time of Taher Saifuddin.
@@ -200,7 +197,7 @@ been using at least since the time of Taher Saifuddin.
   the misaq-breaker and destroy him, and he will be flung into hell, where
   there is nothing but torment. #h(0.6em) ……Say — Yes.
 
-  (19)~Your salvation lies solely in adhering to the misaq; there is no
+  (16)~Your salvation lies solely in adhering to the misaq; there is no
   other path than to act upon the conditions of the misaq. You have made
   God your witness, and the testimony of God is sufficient. #h(0.6em)
   ……Say — Yes.
@@ -217,9 +214,9 @@ been using at least since the time of Taher Saifuddin.
   (#emph[da'wat]) be kept ongoing, and for this purpose he left behind
   three offices — the Da'i, the Ma'zun, and the Mukasir. Through the
   existence of these three offices the knowledge of the Imam's existence is
-  preserved. \[The present Da'i is the great Mawlana Syedna —; the Ma'zun
-  is —; the Mukasir is —. The names in the manuscript here are difficult to
-  read and have been omitted.\] And whoever accepts these three offices
+  preserved. The Imam of the Age's present Da'i is the great Mawlana Syedna Zainuddin
+  , may God prolong his life. The Ma'zun
+  is Shaikh Adam and the Mukasir is Hibatullah. Whoever accepts Saifuddin and these three men
   accepts the Imam-uz-Zaman. #h(0.6em) ……Say — Yes.
 
   (18)~Then, with a willing heart, you have given the oath of loyalty and
@@ -239,8 +236,8 @@ been using at least since the time of Taher Saifuddin.
   straight path. Peace and salutations.
 
   #v(0.3em)
-  #emph[\[Scribal colophon:\] On the 10th of Rabi al-Awwal, 1342 AH, the
-  slave of the great Da'i, Mawlana \[Zainuddin\] — may God prolong his
+  #emph[\[Scribal colophon:\] On the 19th of Rabi al-Awwal, 1228 AH, the
+  slave of the great Da'i, Mawlana Zainuddin — may God prolong his
   life — namely Ahmad Dildar Mulla Noor Khan, wrote this in the city of
   Ajmer. May God grant them intercession.]
 ]
@@ -288,8 +285,8 @@ taken voluntarily, their reasoning being that anyone who does not regard
 the great Mulla as the master of his life simply need not take it. This
 argument is unacceptable, for it is also said that no one is a Dawoodi
 Bohra by birth: one becomes a Bohra only by taking the oath. One witness
-produced a document — a notice dated 29 July 1965 — issued on behalf of
-the present Syedna by his secretary at \[Kapadvanj, Kaira district?\] to a
+produced a document — a notice dated 29 July 1968 — issued on behalf of
+the present Syedna by his secretary at Kampala, Uganda to a
 man named Shri Ibrahim Sheikh Muhammad Ali, in which, on account of
 certain refusals, he was threatened with expulsion from the community. We
 later had occasion to examine this notice in another connection; here it
@@ -308,12 +305,8 @@ following sentences appear in the notice:
   as he pleases, to deprive a covenant-breaking Dawoodi Bohra of all the
   rights and entitlements of a Dawoodi Bohra.]
 ]
+In a book titled "Nathwani — Commission? Committee? Confusion?" — which, evidently, was published at the instigation of Mulla Saheb's sympathizers — there is a chapter under the heading "The Creed and Way of Life of the Dawoodi Bohra Community" which contains the following paragraph:
 
-In a book entitled — evidently published at the instigation of the
-Mullaji's supporters — \[the title in the manuscript is unclear, but it
-appears to be a rejoinder to the Commission\], there is a chapter headed
-"The Belief and Way of Life of the Dawoodi Bohra Sect," which contains the
-following paragraph:
 
 #pad(left: 1.2em, right: 1.2em)[
   #set par(first-line-indent: 0pt, justify: true)
@@ -356,8 +349,8 @@ to him.
 
 Thus a person who becomes a Dawoodi Bohra must surrender himself
 absolutely to the Da'i's mercy, even in non-religious matters. From the
-form in which the misaq has been administered \[since the time of the 51st
-Da'i — the number in the manuscript is uncertain\], it appears that only a
+form in which the misaq has been administered, since the time of the 51st
+Da'i, it appears that only a
 slave — not of God, but of the Da'i — can be a true Dawoodi Bohra. It is
 hard to understand how any self-respecting human being could take such an
 oath; and even if he took it during his minority, how he could be held to
@@ -398,8 +391,8 @@ and return the draft apology that was supplied to him:
 #pad(left: 1em, right: 1em)[
   #set par(first-line-indent: 0pt, justify: true)
   #set text(size: 9.7pt)
-  #emph[\[Reference 86/110\]] \
-  #emph[Dated 20 February 1965] \
+  #context align(center)[#emph[786] \ #line(length: measure([_786_]).width)  #emph[110]]
+  #emph[Dated 20 February 1975] \
   #emph[Anjuman Burhani Jamaat Committee, Bhavnagar] \
   #v(0.3em)
   #emph[After the customary respects —]
@@ -435,16 +428,15 @@ however, we wish to raise an important matter. The reform-minded class says
 that, in the current version of the misaq, the 51st Da'i made deletions
 and additions and inserted many things that were not in the misaq of
 earlier times. The basis of this allegation is the fact that the 51st Da'i
-himself admitted, in the \[Galla\] case in the Bombay High Court in 1921,
-that the version of the misaq he produced was nine years old. At the end
-of that document the writer entered its date as 1342 AH \[the dates given
-in the manuscript here are hard to read and do not perfectly reconcile\].
+himself admitted, in the \[Galla\] case in the Bombay High Court in 1920,
+that the version of the misaq he produced was 90 years old. At the end
+of that document the writer entered its date as 1328 AH (1833 A.D).
 The reform-minded then compare this document with another.
 
 That other document is the one the Advocate General of Bombay produced as
 an exhibit in the \[Galla\] case. It is said to be contained in a sacred
-book written in very elegant Arabic around the year 1165 AH (roughly 1751
-CE) \[dates uncertain\]. We reproduce it as an exhibit in Appendix "D".
+book written in very elegant Arabic around the year 560 AH (roughly 1165
+A.D) \[dates uncertain\]. We reproduce it as an exhibit in Appendix "D".
 
 A comparison of the two documents shows a considerable difference between
 them. The misaq used by the Syedna amounts to a charter of slavery,
@@ -491,18 +483,18 @@ Imam. It appears that the word "Da'i" was added alongside "Imam" in the
 misaq document only fairly recently — a notable change — and that the 51st
 Da'i used this to place the Da'i al-Mutlaq on the same footing as the
 Hidden Imam, as explained in an earlier chapter. One #emph[aamil] had even
-brought a suit against the 51st Da'i and, on account of the non-payment of
+brought a suit against the 49th Da'i and, on account of the non-payment of
 the decretal amount, had tried to have the Da'i committed to jail.
 
 #pad(left: 0.8em, right: 0.8em)[
   #set par(first-line-indent: 0pt, justify: true)
   #set text(size: 9.7pt)
   #emph[In this connection it would be apposite to compare the misaq in
-  current use with the misaq for the Bohras of India recorded on page 19 of
+  current use with the misaq for the Bohras of India recorded on page 91 of
   Miyan Bhai Mulla Abdul Husain's #emph[Gulzar-e-Dawoodi] (1920).]
 ]
 
-The 51st Da'i did not even expel from the community the #emph[aamil] who
+The 49th Da'i did not even expel from the community the #emph[aamil] who
 had done all this. This shows that the misaq was not enforced, and that the
 earlier Da'is did not use it even against a person who challenged them in
 non-religious matters. It seems that the misaq, with its harsh conditions,
@@ -536,9 +528,8 @@ orders and permits), which we shall examine later — became, to a great
 degree, a means of centralizing authority and of amassing wealth on a very
 large scale. In this way he formally built a fortress of personality-cult.
 
-\[A further sentence here, to the effect that an honorific has been coined
-from each letter \[of his name\] to proclaim his greatness, is difficult
-to read and its sense is uncertain.\] The true position is this: whatever
+From every letter of the Urdu alphabet, a word has been formed such that
+from every respect, it points to his greatness. The true position is this: whatever
 happened, and whatever the historical circumstances may have demanded, the
 fact remains that the misaq in its present form is utterly tyrannical —
 not merely harsh — and is against human rights. To judge its true
