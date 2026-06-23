@@ -23,7 +23,7 @@ jamaat, electing local representatives, and collecting and spending
 money, and so on. According to the Board's account, this amounted to a
 respect for democratic values, and the affairs of these institutions ran
 without any obstruction. The local jamaats also looked after the poor,
-the labourers, the widows \[?\], and the needy \[?\].
+the needy, widows, and orphans.
 
 The case we discussed in detail in Chapter Three is referred to in the
 memorandum, which says that, as a result of it, the Syedna came to feel
@@ -83,9 +83,8 @@ their non-religious affairs, without any interference with the Syedna's
 religious standing as Da'i.
 
 The first Bohra Educational Conference was convened in Bombay in 1932,
-under the presidency of the late Sir Muhammad Ali Kanga \[surname
-uncertain\] — father of the eminent solicitor Mr. Ismail Kanga and a
-former \[Honorary?\] Consul-General of Ethiopia. Those who organized this
+under the presidency of the late Sir Muhammad Ali Kanga — father of the eminent solicitor Mr. Ismail Kanga and a
+former Honorary Consul-General of Ethiopia. Those who organized this
 conference, and those who took part in it, were also expelled from the
 community, and oppression and excess were visited upon the members of
 their families and their relatives. Around the same time, the late Sir
@@ -98,14 +97,14 @@ and oppression and excess were inflicted upon them.
 In 1942 the reformist Bohras attempted to organize themselves and, under
 the presidency of Sir Yusuf Ali Karimji Jiwanji of East Africa, convened
 a conference in Bombay. About an hour before the conference was due to
-begin, some eight thousand \[?\] Bohras, led by the Syedna's agents,
+begin, some five thousand  Bohras, led by the Syedna's agents,
 forcibly occupied the Sundarbai Hall, where the conference was to be
 held. The reformists were forcibly prevented from entering the hall, and
 in the end the venue had to be changed; the conference was held in an
-atmosphere of severe tension. From 1953 to 1958 the people of the
+atmosphere of severe tension. From 1954 to 1957 the people of the
 community were so terrified that no one dared openly to defy the Syedna.
 
-In 1958 another conference of the reformists was held at Gambasara \[place
+In 1957 another conference of the reformists was held at Ghambira \[place
 name uncertain\], a town in Gujarat. Among other things, the delegates
 demanded that the constitutions of the jamaats be framed on the lines on
 which the jamaats in East Africa were working; that educational
@@ -115,8 +114,7 @@ the lack of which caused hardship to members of the community even though
 large sums of money were collected every year. The Syedna was also asked
 to render an account of these moneys. Against those who took part in this
 conference, the Syedna's circle let loose a campaign of oppression.
-Various jamaats were compelled to pass resolutions condemning the
-Gambasara conference, and were also forced to denounce the relatives of
+Various jamaats were compelled to pass resolutions condemning the conference, and were also forced to denounce the relatives of
 those who had attended it. Yet the participants were asking for nothing
 more than what the Syedna himself had already granted in connection with
 East Africa. It was out of this very fear that the Syedna had concealed
@@ -124,23 +122,23 @@ from his Indian followers the fact that he had given the East African
 Bohras a democratic constitution — lest a democratic awakening should
 arise throughout the community.
 
-In the middle of 1961 and 1962, in Godhra and Gujarat, new life was
+In the middle of 1960 and 1970, in Godhra,  Gujarat, new life was
 breathed into the reform movement, and a great many people rejected those
 orders of the Syedna that were contrary to the true faith of the Dawoodi
 Bohra community. Many marriages were performed without the Syedna's prior
 permission, and the dead, too, were buried without his prior permission.
 The sons and daughters of Godhra also faced considerable persecution, and
-the Syedna's circle at Godhra \[?\], after a struggle of several years,
+the Syedna's circle at Godhra , after a struggle of several years,
 succeeded — through the weapon of #emph[bara'at] (social boycott) — in
 subduing the members of the community. Bara'at amounts, broadly, to
-expulsion from the community \[?\]. Its meaning is, roughly, to keep
+expulsion from the community. Its meaning is, roughly, to keep
 oneself away from certain ideas or actions and to refuse to accept them.
 But the Syedna used this term for social boycott: a person placed under
 bara'at is not only deprived of all his rights but is also barred from
 maintaining relations with his own relatives — including his parents —
 and with his friends and acquaintances.
 
-In Bombay there was a strong reaction against bara'at \[?\]. Near Flora
+In Bombay there was a strong reaction against bara'at. Near Flora
 Fountain in Bombay, the reformists burned many copies of the bara'at
 decree. One of the Syedna's brothers, Mr. I. Zainuddin, issued a public
 statement to the effect that the purpose of bara'at was only to direct
@@ -189,11 +187,11 @@ no particular relief. After the Udaipur revolt, the religious leaders
 prolonged their campaign of oppression against the Bohra community.
 
 The memorandum then gives many instances of oppression, social boycott,
-and the like. On 18 and 19 February 1977 the reformists held a World
+and the like. On 17, 18, and 19 February 1977 the reformists held a World
 Dawoodi Bohra Conference. According to the memorandum, the Syedna
 instructed his followers to throw this conference into chaos at any cost.
 For this purpose a plan was made to bring fifteen thousand people to
-Udaipur. From the Galiakot dargah, five miles \[?\] from Udaipur, the
+Udaipur. From the Galiakot dargah, 75 miles from Udaipur, the
 Syedna himself directed the entire campaign. As a result this conference
 became a grave threat to public safety, and elaborate police arrangements
 had to be made. Even so, the law-and-order situation went from bad to
