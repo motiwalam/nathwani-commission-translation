@@ -43,8 +43,8 @@ community — has the great mullah's blessing (#emph[ashir-baad]).
 
 For members of the community who follow the great mullah or his devotees,
 it is required that, on invitation cards or in letters, they describe
-themselves — if a man, as "#emph[Abd-e-Syedna]" (servant of Syedna), and
-if a woman, as "#emph[Amat-e-Syedna]" (handmaid of Syedna). Some
+themselves — if a man, as "#emph[Abd-e-Syedna]" (slave of Syedna), and
+if a woman, as "#emph[Amat-e-Syedna]" (bondmaid of Syedna). Some
 respondents said that before the present Da'i's accession to the
 #emph[gaddi] the use of these words was not required; but ever since he
 became the holder of the gaddi their use has been made compulsory. The
@@ -59,17 +59,17 @@ Let us now examine in some detail a few matters touching the freedom of
 expression. The list is long, but we shall take up a few particular cases.
 
 One gentleman, Mulla Tahir Ali — a teacher, of the Lokhandwala family
-\[name uncertain\] — lives on Arthur Road, Bombay. He rendered his services
+ — lives on Arthur Road, Bombay. He rendered his services
 at the Taheri High School in Khetwadi Bazaar, Bombay, where he had taught
 for more than nine years. His statement is that, although sympathetic to
 the reformist movement among the Bohras, he had never openly expressed
-that sympathy. One day in 1965 he was reading the Urdu #emph[Blitz] in the
+that sympathy. One day in 1975 he was reading the Urdu #emph[Blitz] in the
 school compound. As is well known, #emph[Blitz] is a weekly paper,
 published in both English and Urdu, with a fairly wide circulation. We are
 not concerned with its policy or its views; it frequently carries news of
 the reformist movement among the Bohras. According to Shri Tahir Ali's
 statement, the great mullah's devotees had declared the Urdu #emph[Blitz]
-forbidden. One day in June 1965, when he was found reading the Urdu
+forbidden. One day in June 1975, when he was found reading the Urdu
 #emph[Blitz] in the high school, the peons and students of the school beat
 him within the compound on that account, then shoved him and threw him
 out. He related the incident to the editor of the Urdu #emph[Blitz], who
@@ -79,10 +79,10 @@ dismissed from the school.
 
 This high school is run by the education department of His Holiness Syedna
 Mohammed Burhanuddin. By a letter dated 22 Rabi' al-Awwal 1389 AH,
-corresponding to 1 June 1969, from Syedna Burhanuddin Sahib, he was
+corresponding to 11 June 1969, from Syedna Burhanuddin Sahib, he was
 informed that he was being appointed a teacher at the Taheri High School,
 and that he should accept the appointment and report for duty on 25 Rabi'
-al-Awwal 1389 AH, corresponding to 4 June 1969. Shri Lokhandwala produced,
+al-Awwal 1389 AH, corresponding to 14 June 1969. Shri Lokhandwala produced,
 together with the letterhead, a photocopy of the original letter written
 in Urdu and its English translation; there thus remains no doubt that the
 school is under the Syedna's administration.
@@ -97,7 +97,7 @@ paid to him. He was restored to his post. But the administration set the
 teachers and students upon him, so that they would not let him perform his
 duties in peace — insulting him, hurling abuse, and making violent
 attacks. Every day he had to travel to school under police protection. As
-usual, on 19 September 1968 he went to school in a police vehicle,
+usual, on 27 September 1978 he went to school in a police vehicle,
 accompanied by a sub-divisional police inspector. As the principal saw him
 approaching, he at once told the students to leave their classes and
 attack him. The police inspector saw all this with his own eyes — that the
@@ -108,8 +108,8 @@ inspector and the teacher. When the principal reappeared and the inspector
 reprimanded him as well, he opened the door; and as the teacher stepped
 out he was stoned from every side, so that his skull was fractured and his
 arms, thighs, legs, and abdomen were injured. The police took him to the
-J. J. Hospital for treatment. On the very next day — that is, 20 September
-1968 — when he went to the school, the administration again dismissed him.
+J. J. Hospital for treatment. On the very next day — that is, 28 September
+1978 [the original says 20 September, 1978 but this is inconsistent with the previous date] — when he went to the school, the administration again dismissed him.
 We have seen a photocopy of the dismissal order; it gives no reason for
 the dismissal, stating merely that the "Mullah Education Society" had
 resolved to dismiss Tahir Ali with immediate effect and to hand him a
@@ -132,24 +132,23 @@ newspaper.
 
 == (2) The ban on reading the Bohra Bulletin
 
-Another witness, Tahir Ali Abdul Ali Kapasi \[name uncertain\], a resident
+Another witness, Tahir Ali Abdul Ali Kapdia, a resident
 of Dhoraji in Rajkot district, also testified. He stated that a notice of
 excommunication (#emph[bara'at] — social boycott) was announced against
-him, his wife, and their parents, on account of their reading the Dawoodi
-"Bohra Bulletin", whose editor was a reformist, Mr. Saicha \[name
-uncertain\]. An Amil — a deputy of the Syedna — Mulla Yunus Mulla Ibrahim,
-on 19 January 1965 gave the members of the community oral instructions not
+him, his wife, and their parents, on account of their reading the "Dawoodi
+Bohra Bulletin", whose editor was a reformist, Mr. Sanchawala. An Amil — a deputy of the Syedna — Mulla Yunus Mulla Ibrahim,
+on 16 January 1975 gave the members of the community oral instructions not
 to read the Bulletin. The witness said the Amil required him to apologize
 for reading it; and when he refused, a meeting of the Dhoraji Bohra
 community was held in the mosque, at which it was announced that he and
 his family were to be boycotted.
 
 The witness further stated that his six-month-old daughter died. He went
-to a religious scholar, Mulla Abdul Husain Tayyib Ji \[name uncertain\], to
+to a religious scholar, Mulla Abdul Husain Tayyib Ji, to
 seek permission to bury the child, but permission was refused. Then, with
 the help of other people and of the police, the child was at last buried
 in the Bohra cemetery. A report of the incident appeared in the Rajkot
-daily #emph[Lok Manya] in its issue of 9 October 1969. He added that,
+daily #emph[Lok Manya] in its issue of 19 October 1976. He added that,
 after his boycott, none of his close relatives would come to him — even
 his elder brother could neither visit nor meet him. The witness wrote his
 brother a letter expressing his grief that, at the time of his daughter's
@@ -161,7 +160,7 @@ imposed excommunication upon him.
 #block(inset: (left: 0pt, top: 0.3em))[
   #set par(first-line-indent: 0pt, justify: true)
   #text(size: 9pt, style: "italic")[It should be noted that, under the
-  Syedna's order, only the #emph[bara'at] is announced at a meeting of the
+  Syedna's order, the #emph[bara'at] is only announced at a meeting of the
   jamaat; the meeting is not asked to ratify it. It is merely an
   announcement, and not a resolution that is debated and then approved.]
 ]
@@ -169,8 +168,7 @@ imposed excommunication upon him.
 
 == (3) Marriage without permission declared invalid
 
-A lady, Sister Zaitoon — sister of Ahmed Ali Yusuf Ali Kapasi of Talaja
-\[name uncertain\] — also testified. She stated that her parents were
+A lady, Zaitoon bhen Ahmed Ali Yusuf Ali Kapasi Talajawala has also testified. She stated that her parents were
 reformists and followers of Mahatma Gandhi; that for taking part in the
 Satyagraha she had served a sentence of six months' imprisonment; and that
 her father had petitioned Sardar Patel that the Dawoodi Bohras should not
@@ -189,7 +187,7 @@ reformists' work.
 
 She further stated that her marriage had been arranged with Abdul Husain
 Bharat Pitra \[name uncertain\], himself a reformist, and was to take place
-on 6 May 1946. When the local Amil was asked to take part, the witness and
+on 4 May 1946. When the local Amil was asked to take part, the witness and
 her father were told that, because they belonged to a reformist family,
 the great mullah, Mulla Tahir Saifuddin Sahib, had forbidden the Amil to
 perform the ceremony. An application was then made to the great Mulla
@@ -216,12 +214,12 @@ was recorded:
   succession, as the Da'i al-Mutlaq, and that you do not recognize him as
   the duly and regularly appointed Da'i al-Mutlaq in the line of
   succession — that is, you maintain that the line of succession of the
-  Da'i al-Mutlaq was broken after the fifty-fourth Da'i, Syedna Badruddin
-  Sahib, and that the fifty-third Da'i, Syedna Najmuddin Sahib, was not
+  Da'i al-Mutlaq was broken after the 46th Da'i, Syedna Badruddin
+  Sahib, and that the 47th Da'i, Syedna Najmuddin Sahib, was not
   duly appointed in regular succession in the proper manner.
 
   #v(0.3em)
-  (B) And that, on 6 May 1946, you wish to contract a marriage
+  (B) And that, on 4 May 1946, you wish to contract a marriage
   (#emph[nikah]) with Abdul Husain Nur Bhai Bharat Pitra \[name
   uncertain\]; that you have neither obtained the permission of His
   Holiness the Da'i al-Mutlaq for your marriage, nor has His Holiness —
@@ -243,7 +241,7 @@ was recorded:
   contravened, and challenged; in this way you have attacked the
   fundamental beliefs, customs, and traditions of the Dawoodi Bohra
   community. Among these matters is your article published in the December
-  1946 issue of #emph[Aage Qadam], written in Gujarati under the title
+  1941 issue of #emph[Aage Qadam], written in Gujarati under the title
   "#emph[Astri Colony Mate]" (that is, in favour of the education of women).
   This same article of yours was also published in the Bombay
   #emph[Samachar].
@@ -328,7 +326,7 @@ permitted to place any advertisement, or to publish a death notice, in that
 paper. The handbill threatened that no follower of the Syedna would attend
 the Qur'an recitation for any dying person whose death notice had appeared
 in it; all such notices were instead to be placed in the #emph[Jam-e-
-Jamshed] \[name uncertain\] and in another Gujarati paper published from
+Jamshed] and in another Gujarati paper published from
 Bombay. It should be noted that, by old custom, the Bombay #emph[Samachar]
 publishes death notices free of charge.
 
@@ -338,11 +336,11 @@ not boycott the paper will himself be boycotted — to such a degree that, if
 a death notice appeared in the Bombay #emph[Samachar], no mullah would come
 even to lead the funeral prayer for the deceased.
 
-The editor further stated that in the issue of 8 July 1961 an editorial was
+The editor further stated that in the issue of 8 July 1960 an editorial was
 published under a Gujarati title which the source glosses as "recognize the
 disgrace" \[the Gujarati wording is uncertain\]. As a result, some orthodox
 devotees of the Syedna forced their way into the paper's office and
-attacked its editor, Mr. Sohrab Ji Kapadia \[name uncertain\]. Several
+attacked its editor, Mr. Sohrab Ji Kapadia. Several
 newspapers widely condemned this brutal assault on a veteran journalist; a
 case was registered against those arrested in connection with it \[its
 outcome is not clearly stated\].
@@ -387,7 +385,7 @@ The Commission has received many other replies as well, in which
 respondents gave instances of the harassment they suffered for writing
 articles touching the Syedna's conduct. A few brief examples follow.
 
-A resident of Bombay, Saleh Abdul Husain \[name uncertain\], told us that
+A resident of Bombay, Saleh Abdul Husain, told us that
 four years earlier he had been excommunicated on the charge of subscribing
 to the #emph[Bohra Bulletin], a journal of the reformist Bohras. He added
 that the following three reformist journals had been declared forbidden to
@@ -398,9 +396,9 @@ members of the community; all three have since ceased publication:
 #grid(
   columns: (1.3em, 1fr),
   row-gutter: 0.5em,
-  [1.], [#emph[Bagh-e-Momin] — editor, Khan Bhai \[name uncertain\].],
+  [1.], [#emph[Bagh-e-Momin] — editor, Khan Bhai.],
   [2.], [#emph[Gulzar-e-Hakimi] — editor, Hasan Ali Abdul Ali.],
-  [3.], [#emph[Aage Qadam] — editor, Husain Ali Alavi \[name uncertain\].],
+  [3.], [#emph[Aage Qadam] — editor, Husain Ali Alavi.],
 )
 ]
 #set par(first-line-indent: 1.2em, leading: 0.72em)

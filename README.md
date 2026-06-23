@@ -1,3 +1,7 @@
+# DEPRECATION NOTICE
+
+It seems I was wrong about the original report being published in Urdu. An original, English publication has since been found and included in the repository. I'm keeping the English translation up but it's more or less obsolete now.
+
 # The Nathwani Commission
 
 The Nathwani Commission was a 1979 independent inquiry appointed by the Citizens for Democracy (a prominent Indian human rights NGO) to investigate alleged human rights abuses and the infringement of civil liberties within the Dawoodi Bohra community by their religious head, the Syedna.
